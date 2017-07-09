@@ -8,6 +8,7 @@ endif
 if has('gui')
   if has("gui_macvim")
 
+    set guifont=Anonymous\ Pro\ for\ Powerline:h13
     " xxxxxx Required for Closer.vim()
     " Found a better way that doesnt require mapping this!
     " " macmenu &File.Close key=<nop>

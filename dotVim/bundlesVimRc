@@ -484,3 +484,4 @@ endif
 Plug 'jordwalke/vim-one'
 " ==============================================================================
 
+Plug 'reasonml-editor/vim-reason'
